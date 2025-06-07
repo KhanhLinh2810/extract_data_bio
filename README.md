@@ -1,5 +1,4 @@
 1. tải các thứ
-- tải repo https://github.com/mahmoodlab/CLAM.git
 - tải công cụ https://gdc.cancer.gov/access-data/gdc-data-transfer-tool - để tải ảnh wsi
 - tải model và để trong thư mục extract_data_bio https://drive.google.com/file/d/1DoDx_70_TLj98gTf6YTXnu4tFhsFocDX/view
 
@@ -14,12 +13,11 @@
 - conda env create -f env.yml
 - conda activate clam_latest
 
-4. chạy lệnh này để tạo ra các patch:
+4. chạy lệnh này để tạo ra các patch: < nhớ cd clam >
 - python create_patches.py  --source ./../svs --save_dir ./../patch --patch_size 256 --step_size 256 --seg --patch
 
-5. chạy lệnh này để chạy ra các feature token: chưa chạy tới :v
+5. chạy lệnh này để chạy ra các feature token: < nhớ cd clam >
+- python extract_features.py --data_dir ./..\patch --csv_path ./../output\metadata.cart.2025-06-04-wsi\pair_1_dataset_csv.csv  --feat_dir features/TCGA-BRCA --batch_size 64  --model_name swin
 
-6. cấu trúc repo:
-   ![{ACA78063-5724-4C25-B683-5D4238762963}](https://github.com/user-attachments/assets/80de2160-24ac-4783-85de-d7749ce54308)
 
 
