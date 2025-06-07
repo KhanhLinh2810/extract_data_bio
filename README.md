@@ -17,5 +17,9 @@
 4. chạy lệnh này để tạo ra các patch:
 - python create_patches.py  --source ./../svs --save_dir ./../patch --patch_size 256 --step_size 256 --seg --patch
 
-5. chạy lệnh này để chạy ra các feature token: chưa chạy tới :v 
+5. chạy lệnh này để chạy ra các feature token: chưa chạy tới :v
+
+6. cấu trúc repo:
+   ![{ACA78063-5724-4C25-B683-5D4238762963}](https://github.com/user-attachments/assets/80de2160-24ac-4783-85de-d7749ce54308)
+
 
