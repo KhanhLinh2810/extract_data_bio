@@ -1,0 +1,1192 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-60-2707-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4d687740-96ca-4d78-8c78-1a2024ce6b6c",
+        "entity_id": "95c1fd9a-8e81-4aae-bd9e-fc2d1e868b4d"
+      }
+    ],
+    "file_name": "TCGA-60-2707-01Z-00-DX1.4aafd76b-eb0e-4ab9-a740-682c169a3c3d.svs",
+    "md5sum": "2d68a93d8c03b107e3ef76d6a326335a",
+    "file_id": "c02b712d-9581-4905-b922-c365633470e8",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-60-2707-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 887279597
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-43-A56U-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4d6b5b30-0dea-4745-bc46-34ebd98f7418",
+        "entity_id": "7c70cc14-d05c-46fb-bec8-1db44d694418"
+      }
+    ],
+    "file_name": "TCGA-43-A56U-01Z-00-DX1.B60C921A-4EE4-4CAE-9E55-311C7D2DA9E4.svs",
+    "md5sum": "8984087a65a493626b135537a525d66e",
+    "file_id": "6853c29f-247f-4f76-8ab4-34d236854f5a",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-43-A56U-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 353956345
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-22-5478-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4daf4a91-bc36-40c8-8fca-ea61b6706775",
+        "entity_id": "a25534c0-83f0-4062-8537-467b85852747"
+      }
+    ],
+    "file_name": "TCGA-22-5478-01Z-00-DX1.6368788A-96D5-499B-A199-89BF1413AE43.svs",
+    "md5sum": "7a69621f46fe633d43df7665e343d661",
+    "file_id": "d4d80bf4-2f42-4281-90a3-f587ae42a953",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-22-5478-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1096680355
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-8353-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4db53b4c-2e5c-45ea-8577-4360c114e0c1",
+        "entity_id": "3c9bb1e8-4e82-4445-ad62-1701f91ef132"
+      }
+    ],
+    "file_name": "TCGA-85-8353-01Z-00-DX1.2A333CFA-3D8A-41B2-9D08-8AAF431BFE54.svs",
+    "md5sum": "5b4042b3efcce228559dc3102d3b1418",
+    "file_id": "1e660e65-0b54-4ece-b966-f6a7e41ea333",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-8353-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 801500529
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-18-3407-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96",
+        "entity_id": "198515e2-c4e8-44e5-aed7-d7e478190642"
+      }
+    ],
+    "file_name": "TCGA-18-3407-01Z-00-DX1.E7DDA7E3-45A2-4E06-A081-E6A81A672155.svs",
+    "submitter_id": "TCGA-18-3407-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-18-3407",
+        "notes": "Prior malignancy R tongue treated with radiation.",
+        "submitter_id": "11710",
+        "classification": "Notification",
+        "entity_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96",
+        "created_datetime": "2012-10-31T00:00:00",
+        "annotation_id": "43074507-19cc-569c-9518-022654241c6a",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96",
+        "state": "released",
+        "category": "Prior malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-18-3407"
+      },
+      {
+        "entity_submitter_id": "TCGA-18-3407",
+        "notes": "Prior malignancy R tongue treated with radiation.",
+        "submitter_id": "11922",
+        "classification": "Notification",
+        "entity_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96",
+        "created_datetime": "2012-11-10T00:00:00",
+        "annotation_id": "5bd74ca8-27c4-56ff-b4f5-390298b5f8b0",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:28:11.210272-05:00",
+        "case_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96",
+        "state": "released",
+        "category": "History of acceptable prior treatment related to a prior/other malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-18-3407"
+      }
+    ],
+    "file_size": 747518924,
+    "md5sum": "c8d8a4013c1a014c2fa6a62124f1d2b1",
+    "file_id": "c61e8739-2725-4ee8-9927-0bfda70cdad4",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-34-A5IX-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4eaf5d63-9b33-4c7f-871e-45daa735f972",
+        "entity_id": "10a8278a-c2be-4f4d-963d-3402a303ac65"
+      }
+    ],
+    "file_name": "TCGA-34-A5IX-01Z-00-DX1.E10EE7FC-91EA-4A39-8B1B-1312C8D9620B.svs",
+    "md5sum": "2a1386047172ae4377905523a0111d7b",
+    "file_id": "75dd3a6a-135c-43c4-9f2e-eb74a37d368a",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-34-A5IX-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1939434691
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-66-2800-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4fbf2497-0774-4599-8c90-1961612b8e3a",
+        "entity_id": "44365576-c7e1-4b30-88ae-47965eaed2d2"
+      }
+    ],
+    "file_name": "TCGA-66-2800-01Z-00-DX1.19a7cec8-8894-4755-aa2c-ae5266800355.svs",
+    "md5sum": "be031af26f8396df482708e3dad414ef",
+    "file_id": "116ad0c4-e53d-4c90-9113-99c18e5ed656",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-66-2800-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 79744695
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-56-8623-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "513c5f34-dc6e-4caa-81cc-907fd6a825b1",
+        "entity_id": "77b75ba9-fea5-4555-9488-afb7491adf85"
+      }
+    ],
+    "file_name": "TCGA-56-8623-01Z-00-DX1.119C11E2-16E4-48A9-B8BD-6F1E8CBFEBA1.svs",
+    "submitter_id": "TCGA-56-8623-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-56-8623",
+        "notes": "Possible tumor/normal sample swap, cross-contamination, and/or sample purity issues. The sequencing and characterization centers have reported that molecular signature of the tumor DNA and RNA cluster with the normal controls.  Their analysis suggests that the purity of the tumor is very low.  Therefore, the data from this patient should be used with caution.",
+        "submitter_id": "22102",
+        "classification": "Notification",
+        "entity_id": "513c5f34-dc6e-4caa-81cc-907fd6a825b1",
+        "created_datetime": "2014-09-05T00:00:00",
+        "annotation_id": "53ccabc5-0c89-5e55-a267-130dd021d9ff",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "513c5f34-dc6e-4caa-81cc-907fd6a825b1",
+        "state": "released",
+        "category": "BCR Notification",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-56-8623"
+      }
+    ],
+    "file_size": 609133226,
+    "md5sum": "867c260b9da085641c1a0131babe3d40",
+    "file_id": "67db88cb-d2ce-42d2-8cdb-804c6ed9b29d",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-77-7141-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5144fc75-b89e-47d8-96b4-aadd3f0da4e5",
+        "entity_id": "e9497f74-dc29-41f4-b924-c8ac4c519f41"
+      }
+    ],
+    "file_name": "TCGA-77-7141-01Z-00-DX1.3263490a-cfba-43a8-8198-5139dbf00bf9.svs",
+    "md5sum": "9ce86537849e05815f8a9c9f04d31788",
+    "file_id": "64d90ca3-59b2-44ec-8fa9-3857992b3cce",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-77-7141-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1061673111
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-63-A5MH-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "51f0b1cb-4315-4acd-a9c1-5353e0ff9d46",
+        "entity_id": "5bdea70d-941b-4d84-b3c6-143794a1cd26"
+      }
+    ],
+    "file_name": "TCGA-63-A5MH-01Z-00-DX1.596077FF-9CE1-4EA7-9BB6-222C69872CA4.svs",
+    "md5sum": "9bdbc84bb0aa3b79b54f0d025e9ac5c1",
+    "file_id": "10e4ce3b-cee1-44a5-9258-5f171a94264d",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-63-A5MH-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 24939332
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-8584-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "52924e27-7b36-4e25-83b2-abc51dd72668",
+        "entity_id": "0e973795-0e05-43eb-8679-8a751464ad35"
+      }
+    ],
+    "file_name": "TCGA-85-8584-01Z-00-DX1.859bb615-578f-4aad-b1e3-8c92b7e3ef2d.svs",
+    "md5sum": "015049ba0d6c359b1b969333baee4aea",
+    "file_id": "25c5db34-b07e-4084-ab1b-2ca99f6a5860",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-8584-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 553835639
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-63-A5MT-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "531d1248-76ae-46a1-8f65-cdecf9bcb0d8",
+        "entity_id": "1978c758-305a-4cf6-813c-b9fd8fa80c2d"
+      }
+    ],
+    "file_name": "TCGA-63-A5MT-01Z-00-DX1.9F168173-804C-49CA-B157-7970CB55ED93.svs",
+    "md5sum": "8e3d101115ba12751a743572dc487f68",
+    "file_id": "a3e20a44-ec27-42f0-b904-73d24a03cec0",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-63-A5MT-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 330651696
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-98-8023-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "553f810b-e917-4935-a875-dc9b902d0789",
+        "entity_id": "67e3df77-5dda-41ac-86c4-b6141bc6a77b"
+      }
+    ],
+    "file_name": "TCGA-98-8023-01Z-00-DX1.d04d976f-0a9f-44c6-a5f1-4b06885847f8.svs",
+    "md5sum": "1d0d3f47fe065e065b58ac347dca9b2b",
+    "file_id": "9d922ca4-9335-4223-962e-88ddaad9ea52",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-98-8023-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 644092527
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-33-AASI-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "55bafaad-323b-4b92-813e-52d18d70fc3e",
+        "entity_id": "ec9ceee1-c993-478c-ae19-910d0d7bc811"
+      }
+    ],
+    "file_name": "TCGA-33-AASI-01Z-00-DX1.71BC119D-9916-4214-9294-26301F2E430F.svs",
+    "md5sum": "3e53076810f7c61c6827df69718a0c7b",
+    "file_id": "41fe0f3e-d2d6-4f7a-9018-27b1fef2b430",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-33-AASI-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1954413763
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-77-8154-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "569691a3-15b4-4b1c-b8b7-b3ad17d0996e",
+        "entity_id": "0004b6bc-ee9f-4208-9600-89c84b75188f"
+      }
+    ],
+    "file_name": "TCGA-77-8154-01Z-00-DX1.5ca9afa5-e5d8-46d7-b542-c27649bd214e.svs",
+    "md5sum": "f44d0024d242a43ed72436598cf9d7e7",
+    "file_id": "b2f68a40-3bda-41f2-80d5-328427aeffcb",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-77-8154-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 705767743
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-39-5011-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5845fe49-f2cc-436b-9ec8-65e775eae111",
+        "entity_id": "3b6c2079-bdbc-44d5-bec5-deaf99bc0e43"
+      }
+    ],
+    "file_name": "TCGA-39-5011-01Z-00-DX1.be58f65a-0b90-4ba4-bc5f-df74d4a3df22.svs",
+    "md5sum": "0cfb29ada5b26287d84ae6b1dcee08c2",
+    "file_id": "7ff51101-5a90-4722-8025-1e6dad105f0f",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-39-5011-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 426485267
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-60-2719-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "585e6487-b0a3-4828-8a06-46bee01dff74",
+        "entity_id": "56fca279-76aa-41dd-8087-0ece955abde7"
+      }
+    ],
+    "file_name": "TCGA-60-2719-01Z-00-DX1.e834671a-7468-4517-bf95-4e100f87e9a3.svs",
+    "md5sum": "d4a4b85ce4e43d8319a284297be4e0bd",
+    "file_id": "328d1dd7-b6c9-4bb2-8a39-c24eda7c9d9d",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-60-2719-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 831265769
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-66-2727-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5860a9f1-30e8-4833-99bb-a6863e78914b",
+        "entity_id": "152485ae-63e2-4c12-af1e-8c797f18d881"
+      }
+    ],
+    "file_name": "TCGA-66-2727-01Z-00-DX1.cab55166-3a9a-4f2e-9f7a-33859ab32d12.svs",
+    "md5sum": "60e95428df8c87c5b3e9d6419d7444b0",
+    "file_id": "cd74cd61-6754-47f2-bd2c-369392502414",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-66-2727-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 226573185
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-6798-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "59b006b0-4a81-41c8-9574-29a732428e29",
+        "entity_id": "03a08e09-955d-4d72-8abe-9119f72bef9e"
+      }
+    ],
+    "file_name": "TCGA-85-6798-01Z-00-DX1.c8ca3a56-b337-4345-b55a-83b0ae9a75f0.svs",
+    "md5sum": "37ea246782a32d5f671e077d5f345a43",
+    "file_id": "e94391ae-8096-4241-8b26-a52d87a8c796",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-6798-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 777954915
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-NK-A5CX-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5b3cb83b-cfde-42dc-a6ec-0127bd0e6685",
+        "entity_id": "4829f286-4858-4011-9e4a-2ad316e9a9ce"
+      }
+    ],
+    "file_name": "TCGA-NK-A5CX-01Z-00-DX1.CA1C230C-7A29-491B-A124-7D3B600DAFB7.svs",
+    "md5sum": "f3033ad8823d8349448c258c8eb0dc39",
+    "file_id": "9a809f9d-ea4e-495c-a338-5ecf96847e6e",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-NK-A5CX-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 2325698253
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-NC-A5HF-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5b6c3188-5d33-4473-bdd4-0cb9671e9047",
+        "entity_id": "299a4f03-a49f-4c0f-b55e-f4211de1e811"
+      }
+    ],
+    "file_name": "TCGA-NC-A5HF-01Z-00-DX1.6371242D-227A-4531-8BB3-FD1AABF770C9.svs",
+    "md5sum": "58714580fa00aaa48b17c80a0022da78",
+    "file_id": "2285b642-ac05-4e32-8640-f81be14b4a05",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-NC-A5HF-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1026114827
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-37-4141-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5d3d3918-7da8-4147-90a3-dc015be1dfbe",
+        "entity_id": "2df4124f-dd6a-4814-ab4f-bec5086aff85"
+      }
+    ],
+    "file_name": "TCGA-37-4141-01Z-00-DX1.65256656-b0e0-4705-ad00-38f6c8922cfc.svs",
+    "md5sum": "288183661121fa8320e8920b11861312",
+    "file_id": "9d033826-a766-4d51-bddf-ba119225200e",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-37-4141-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 387965057
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-98-A53C-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5d7a6807-e024-479d-a4df-1d44af41fa66",
+        "entity_id": "1b57a0da-d26b-4177-a1bd-46f1d4f2a8b6"
+      }
+    ],
+    "file_name": "TCGA-98-A53C-01Z-00-DX1.1E06B7B5-32C3-436C-AD66-27E5829ADA85.svs",
+    "md5sum": "f27835115da7d4064b5c5d4440ce068e",
+    "file_id": "c0d523bb-15c6-4c93-8c03-d5a82136057a",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-98-A53C-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 689674041
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-63-A5MS-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5f29578a-7606-4625-bd24-a194b3287024",
+        "entity_id": "a8baa966-5a1a-496b-ad5a-46ab928fb720"
+      }
+    ],
+    "file_name": "TCGA-63-A5MS-01Z-00-DX1.F58D7779-B8E0-4086-AF14-256B812F83CE.svs",
+    "md5sum": "cce06bb2e58b21f4653294bd3683542a",
+    "file_id": "8b6a9249-ac57-4c5f-bb31-ecd7b3dc942f",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-63-A5MS-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 245714002
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-22-4601-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5f99343b-e8ea-4b41-b36d-cd5c8fd918d0",
+        "entity_id": "36b43c4c-3cd7-4fca-940f-4f66c3292f05"
+      }
+    ],
+    "file_name": "TCGA-22-4601-01Z-00-DX1.2EABA7B1-1E31-4AFE-B97B-D40EEAD66D85.svs",
+    "md5sum": "50dd2c07ca291a6260ce86b951766ce9",
+    "file_id": "a775dc7d-f257-4f7f-9ecb-e165d4636f93",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-22-4601-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 685138319
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-34-5241-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6013a4fd-89cf-48a7-a465-c7b644afb4a5",
+        "entity_id": "7a5a2a07-a4b1-41c6-9195-9e23f07c2234"
+      }
+    ],
+    "file_name": "TCGA-34-5241-01Z-00-DX1.7abc4737-9a9c-4270-8297-58ea167cea63.svs",
+    "md5sum": "d5923296353640a91ae9e46cced1cef4",
+    "file_id": "283b88fe-2b81-4b25-a1e0-0ba5f9b9f101",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-34-5241-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 822982383
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-46-6025-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6020ec67-8f3b-409f-a0ed-2af849b4d76f",
+        "entity_id": "6d1660a7-3897-46c2-be93-264f69865ebc"
+      }
+    ],
+    "file_name": "TCGA-46-6025-01Z-00-DX1.05600f09-0b48-448c-b305-cb881970fc52.svs",
+    "md5sum": "9817332fba53d21f408b46113c4f2828",
+    "file_id": "82bc8fc4-1f34-4f0d-aaf1-b8b389fd5c2a",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-46-6025-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 490255431
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-96-A4JK-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "613adbb3-c2d1-4992-9953-c4fadd249001",
+        "entity_id": "a721b63f-9d4f-4f9e-b80f-55716c9d251a"
+      }
+    ],
+    "file_name": "TCGA-96-A4JK-01Z-00-DX1.DD4071B6-75CA-475D-B742-925EA6BE9F0A.svs",
+    "submitter_id": "TCGA-96-A4JK-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-96-A4JK",
+        "notes": "Patient was given BCG for the prior bladder cancer, which was not approved by the lung group as an acceptable prior treatment. (per Kristen Leraas/BCR TCGA-2222)",
+        "submitter_id": "21870",
+        "classification": "Notification",
+        "entity_id": "613adbb3-c2d1-4992-9953-c4fadd249001",
+        "created_datetime": "2014-08-14T00:00:00",
+        "annotation_id": "a56885f3-d296-590e-99a3-4d24b00d4e4e",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "613adbb3-c2d1-4992-9953-c4fadd249001",
+        "state": "released",
+        "category": "History of unacceptable prior treatment related to a prior/other malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-96-A4JK"
+      }
+    ],
+    "file_size": 2483365147,
+    "md5sum": "c88adab2d15e5eb58470031173b85922",
+    "file_id": "8dab7870-1805-4735-82e6-9a5efbc05ea7",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-8580-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6205bb0d-f5ad-4181-a62b-5cb21415ff8e",
+        "entity_id": "dda80dc8-eb4b-4fd5-9152-1527a1f70a5c"
+      }
+    ],
+    "file_name": "TCGA-85-8580-01Z-00-DX1.1b942bbe-2c6e-4411-8609-1725e5cb93da.svs",
+    "md5sum": "57f7b0c14e0808773c6591c9bfe52fe9",
+    "file_id": "de2f18e2-c437-4b53-a612-118ec04ddf13",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-8580-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 938376989
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-18-5595-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "628b1bc3-825b-4d0e-a4cd-57eeaf98e798",
+        "entity_id": "45efa8be-3e24-4c5b-a751-e1b0a7fad641"
+      }
+    ],
+    "file_name": "TCGA-18-5595-01Z-00-DX1.75235488-2F6F-42CE-8D7D-0E9A360E1C61.svs",
+    "submitter_id": "TCGA-18-5595-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-18-5595",
+        "notes": "Prior malignancy cancer of the pharynx treated with cisplatin.",
+        "submitter_id": "11925",
+        "classification": "Notification",
+        "entity_id": "628b1bc3-825b-4d0e-a4cd-57eeaf98e798",
+        "created_datetime": "2012-11-10T00:00:00",
+        "annotation_id": "8556de31-68ae-57d4-9bc2-390ab88de812",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "628b1bc3-825b-4d0e-a4cd-57eeaf98e798",
+        "state": "released",
+        "category": "History of unacceptable prior treatment related to a prior/other malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-18-5595"
+      },
+      {
+        "entity_submitter_id": "TCGA-18-5595",
+        "notes": "Prior malignancy cancer of the pharynx treated with cisplatin.",
+        "submitter_id": "11714",
+        "classification": "Notification",
+        "entity_id": "628b1bc3-825b-4d0e-a4cd-57eeaf98e798",
+        "created_datetime": "2012-10-31T00:00:00",
+        "annotation_id": "da95e91f-34c1-55d2-81a1-a6e2f88fd393",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "628b1bc3-825b-4d0e-a4cd-57eeaf98e798",
+        "state": "released",
+        "category": "Prior malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-18-5595"
+      }
+    ],
+    "file_size": 761393094,
+    "md5sum": "0bac7aabed28b19c680e99a42831b588",
+    "file_id": "b3631f2e-098b-464a-8019-e8e16d682e61",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-77-8146-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "636d0804-8a63-4bd0-86b4-dc1dc71da8b7",
+        "entity_id": "cebf5bb4-9a68-4af1-940b-3c3eaba83592"
+      }
+    ],
+    "file_name": "TCGA-77-8146-01Z-00-DX1.19213f57-1890-4e56-9909-86e506be1833.svs",
+    "md5sum": "ad14254f3f22027180c27e7106ebd7f2",
+    "file_id": "3041d5a1-f53b-419f-8465-7b6acf75bfca",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-77-8146-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1301005977
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-66-2754-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "637e900e-64ab-4bff-82b9-3ba6b5632f35",
+        "entity_id": "020068bc-3242-4672-aa87-e1d37eafc332"
+      }
+    ],
+    "file_name": "TCGA-66-2754-01Z-00-DX1.3cd19122-06f3-420e-9c3f-362225ff49eb.svs",
+    "md5sum": "c4467e9c1c8e0505f989b8638003d0b1",
+    "file_id": "2e661899-5876-4b5e-99da-6b8776c38d96",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-66-2754-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 137978447
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-21-1072-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6394fe4a-6034-4c79-b28f-aa43e3753730",
+        "entity_id": "73608d65-c876-4a95-8522-c72e1f1e19fa"
+      }
+    ],
+    "file_name": "TCGA-21-1072-01Z-00-DX1.9e6c90ad-0529-4b8b-a4f8-1b05430600f9.svs",
+    "md5sum": "4daf906a5814057401f76b9970d1384e",
+    "file_id": "f01a8ca9-a1ce-4bf1-bcfc-878d7dfb5f8b",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-21-1072-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 171033867
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-63-A5MJ-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "63d2a48d-50ec-4e84-86e7-c4b74c49d08f",
+        "entity_id": "4d35afc1-5935-4eed-ae07-5c1e46074bc8"
+      }
+    ],
+    "file_name": "TCGA-63-A5MJ-01Z-00-DX1.4F060025-3A21-4FEB-8A63-F55A95BFBA30.svs",
+    "md5sum": "85bebc7079197b96beaddba1578a17ee",
+    "file_id": "1a23b078-10b4-43df-b17e-3a942dd903f2",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-63-A5MJ-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 95271782
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-94-A5I6-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "644f0c64-c710-4faa-ada5-cbb9a52acf93",
+        "entity_id": "e08c1327-6dea-42ca-8b67-34ba3d60a436"
+      }
+    ],
+    "file_name": "TCGA-94-A5I6-01Z-00-DX1.55C3DD79-D988-47FA-81FE-2BA20C291530.svs",
+    "md5sum": "8549ad15d05959ac1703d6aff42aa0de",
+    "file_id": "a62f9b6e-38eb-4a6b-9bc3-95038d7c14de",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-94-A5I6-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1933537066
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-56-5898-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6467bc69-4e89-49f6-8912-fa86d513cf51",
+        "entity_id": "1c61e5c7-a740-4848-9460-07858e29538b"
+      }
+    ],
+    "file_name": "TCGA-56-5898-01Z-00-DX1.d539fc8b-ae31-4820-8c2e-5cf587958eb3.svs",
+    "md5sum": "afdf62fb884a07c89a4af286bb0a1eaa",
+    "file_id": "c7d2fc66-baeb-4138-99f3-ddae1100ceda",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-56-5898-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 38801875
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-77-6842-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "64925b54-c354-4290-a5c4-117fcdbf1ebb",
+        "entity_id": "afca2777-a1d5-4b37-8669-0e4ae985a43b"
+      }
+    ],
+    "file_name": "TCGA-77-6842-01Z-00-DX1.934f1e6a-9c30-40ad-a764-7d0b6fdb92e9.svs",
+    "md5sum": "9618a69cd262f9c8482d28ded5390383",
+    "file_id": "74e1a3eb-a135-4142-8e57-e6985cd37fb7",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-77-6842-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1209599137
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-A4CN-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "67e92755-396e-4d9a-b737-979eadc743f9",
+        "entity_id": "509e38c3-bdf2-42f0-ac4a-94f9a95f0fc7"
+      }
+    ],
+    "file_name": "TCGA-85-A4CN-01Z-00-DX1.051538DE-0F7E-4CE1-9D87-18155D9DCC8B.svs",
+    "md5sum": "6a755f03898f5d323730d235223a3d92",
+    "file_id": "7958411b-7a20-45fd-ad6d-5c3bead90c17",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-A4CN-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1250554729
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-8070-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "67f40b3a-882c-4ac9-9038-0e7b10a5ccdc",
+        "entity_id": "0aa6fa28-e766-4831-b826-cf17368fa250"
+      }
+    ],
+    "file_name": "TCGA-85-8070-01Z-00-DX1.54e7edf1-28d3-4fd5-bab3-951e58620386.svs",
+    "md5sum": "cac2902f69b6495f4ccc7925256d18d5",
+    "file_id": "e9536fee-63cf-4d51-8247-1f97e3816991",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-8070-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 515846559
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-63-5131-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "68107725-a883-4b33-a366-d9b4adb18028",
+        "entity_id": "9018ef41-93e5-47db-878b-a37afea36e0f"
+      }
+    ],
+    "file_name": "TCGA-63-5131-01Z-00-DX1.C1C3724A-D9FC-46D6-9D7B-9357A58ACAEF.svs",
+    "md5sum": "877b9fa6580564bf4aa34f40f5338a67",
+    "file_id": "9d5d8260-061b-4a55-9b1e-80a993a0c9ff",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-63-5131-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 137040676
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-66-2769-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "69e43922-e028-4090-8724-1fb2f018c7f2",
+        "entity_id": "927ca947-6108-450d-a20d-e249955d2874"
+      }
+    ],
+    "file_name": "TCGA-66-2769-01Z-00-DX1.101b6493-a7b3-42cf-ae2f-a90948f3fb8f.svs",
+    "md5sum": "cd31a1a8422fd8a4b5763f0e1a5b6e79",
+    "file_id": "7c886b5f-f7d5-4013-b32f-3e09f2339e3a",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-66-2769-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 287590667
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-O2-A52V-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6a2ce004-8a2d-419f-9738-e352d298a315",
+        "entity_id": "e7a7114b-0fee-497b-86e7-188101206b7e"
+      }
+    ],
+    "file_name": "TCGA-O2-A52V-01Z-00-DX1.561ADDAE-EC55-461A-84B5-535C93E39C56.svs",
+    "md5sum": "2f226847d2f5a48bbbf432b756204c8e",
+    "file_id": "4a195a61-965d-4cce-b5a7-05246588a561",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-O2-A52V-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1301611501
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-22-1012-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6ab57144-16ea-4844-b737-e726787d23b9",
+        "entity_id": "ff5606a9-215d-4c96-a379-ee1bf2abbeae"
+      }
+    ],
+    "file_name": "TCGA-22-1012-01Z-00-DX1.053F81FA-F91A-42B0-8F12-CD2495FA9E99.svs",
+    "md5sum": "fb16e6711489dd6cd4046582b45f2124",
+    "file_id": "c938fa62-1da3-49ac-b009-78cac7538161",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-22-1012-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1785777053
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-A4PA-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6acdb5e1-4f4d-4512-a41b-ceec94b82744",
+        "entity_id": "8f4a9264-4b51-47ca-8117-08c5c4bca1ff"
+      }
+    ],
+    "file_name": "TCGA-85-A4PA-01Z-00-DX1.00AF818F-39BA-4EA7-8873-9B6C4F2D2141.svs",
+    "md5sum": "30575245267779fab50f6e4550724cda",
+    "file_id": "05300e28-4efa-4a3e-87af-7b85df349ac0",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-A4PA-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1155593149
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-46-3767-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6b0b6fc0-d808-49c3-8f2a-e122bc3142f5",
+        "entity_id": "938039ee-896c-459b-9d09-77ad984dbde6"
+      }
+    ],
+    "file_name": "TCGA-46-3767-01Z-00-DX1.1f1899f9-7d6e-438c-b7ac-701ea088734d.svs",
+    "md5sum": "7300031ed1e64afaa1482ce6b3f0ff4e",
+    "file_id": "50074751-b137-4f0a-9e11-eb2deab5015c",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-46-3767-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 603555103
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-77-8131-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6d7803fd-cf8f-43dc-8b2d-fd129cdd2b3d",
+        "entity_id": "32519dfb-7066-4a96-8134-a7fa5a1c75e1"
+      }
+    ],
+    "file_name": "TCGA-77-8131-01Z-00-DX1.dcb8e2c7-0d2f-4b38-9db8-cc026a61699e.svs",
+    "md5sum": "848813909e44ac67b4f1a31748737126",
+    "file_id": "0eaac2ef-8314-4c4e-89de-f6dd0d069c1b",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-77-8131-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 821421653
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-85-A50M-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6d991de7-8bfb-40a6-9070-edea041bd782",
+        "entity_id": "f1f30de0-5914-4f52-aa57-8ccf525ea690"
+      }
+    ],
+    "file_name": "TCGA-85-A50M-01Z-00-DX1.CFB67271-FC1B-4BA0-95DB-51D859D68D18.svs",
+    "md5sum": "65df342ba385afa6818f074f18855e4e",
+    "file_id": "20f3f863-492c-4a5a-abc0-1f3a04382c78",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-85-A50M-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 970041755
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-90-7964-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6e6b8596-76aa-49f5-a997-46ebc0e43934",
+        "entity_id": "fe1e8496-3f3f-41a3-a716-7f14928f9002"
+      }
+    ],
+    "file_name": "TCGA-90-7964-01Z-00-DX1.25D2CC5D-2383-41FE-B5D5-0ACFC0F8209B.svs",
+    "submitter_id": "TCGA-90-7964-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-90-7964",
+        "notes": "Pt with synchronous R LUAD.",
+        "submitter_id": "11969",
+        "classification": "Notification",
+        "entity_id": "6e6b8596-76aa-49f5-a997-46ebc0e43934",
+        "created_datetime": "2012-11-10T00:00:00",
+        "annotation_id": "ac1ede39-4d73-547f-a484-fa30a2414b00",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "6e6b8596-76aa-49f5-a997-46ebc0e43934",
+        "state": "released",
+        "category": "Synchronous malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-90-7964"
+      }
+    ],
+    "file_size": 350374287,
+    "md5sum": "753da8ac9334de54af1c3ac38e291969",
+    "file_id": "938be563-e1ea-4cbf-8766-d6a071cca0fd",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-37-5819-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6eae9623-b4f2-440c-8283-46c7016f953a",
+        "entity_id": "3848b16b-2d8f-4b42-a198-c693444960a5"
+      }
+    ],
+    "file_name": "TCGA-37-5819-01Z-00-DX1.3647F836-7BB4-4D41-A85E-CFC0B5CBA216.svs",
+    "md5sum": "1a18f96acf175482d25301cfe31f8711",
+    "file_id": "eed858e8-ea64-40d8-a080-9551941ae1b5",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-37-5819-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 515185067
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-18-3416-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "6eb61cab-8e83-4c18-a59a-ae0985ec9d2e",
+        "entity_id": "b463196e-623d-4047-b8e9-dc1512d9b030"
+      }
+    ],
+    "file_name": "TCGA-18-3416-01Z-00-DX1.EDAD3DEB-8A86-4F34-82EC-6691BFDE900D.svs",
+    "submitter_id": "TCGA-18-3416-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-18-3416",
+        "notes": "Prior malignancy melanoma of the left chest. Prior malignancy melanoma of the arm.  Unknown treatment history.",
+        "submitter_id": "11713",
+        "classification": "Notification",
+        "entity_id": "6eb61cab-8e83-4c18-a59a-ae0985ec9d2e",
+        "created_datetime": "2012-10-31T00:00:00",
+        "annotation_id": "89dce91c-3189-50de-9770-364e25a94a9b",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "6eb61cab-8e83-4c18-a59a-ae0985ec9d2e",
+        "state": "released",
+        "category": "Prior malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-18-3416"
+      }
+    ],
+    "file_size": 742886576,
+    "md5sum": "f44245cde792a368194677c6c7bf245a",
+    "file_id": "beaaa140-298f-411f-b6c9-4ba681bf9444",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  }
+]
