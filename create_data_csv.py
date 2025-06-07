@@ -18,14 +18,14 @@ def process_json_files(json_dir_path, default_label = 'gf'):
             with open(json_file_path, 'r', encoding='utf-8') as f1:
                 data1 = json.load(f1)
             
-            output_csv = os.path.join(json_dir_path, f"{json_file.split('.')[0]}_dataset_csv.txt")
+            output_csv = os.path.join(json_dir_path, f"{json_file.split('.')[0]}_dataset_csv.csv")
 
             with open(output_csv, mode="w", newline='') as csvfile:
                 writer = csv.writer(csvfile)
                 writer.writerow(["case_id", "slide_id", "label"])
 
                 for entry in data1:
-                    slide_id = entry["associated_entities"][0]["entity_submitter_id"]
+                    slide_id = entry["file_name"]
                     case_id = entry["associated_entities"][0]["case_id"]
                     label = default_label
                     writer.writerow([case_id, slide_id, label])
