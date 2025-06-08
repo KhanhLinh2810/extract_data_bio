@@ -97,6 +97,10 @@ if __name__ == '__main__':
 
 		output_path = os.path.join(args.feat_dir, 'h5_files', bag_name)
 		file_path = bag_candidate
+		if not os.path.exists(file_path):
+			print('not exists {}'.format(slide_id))
+			continue 
+
 		time_start = time.time()
 		dataset = Whole_Slide_Bag(file_path=file_path, img_transforms=img_transforms)
 		loader = DataLoader(dataset=dataset, batch_size=args.batch_size, **loader_kwargs)

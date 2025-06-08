@@ -5,7 +5,7 @@ from .timm_wrapper import TimmCNNEncoder
 import torch
 from utils.constants import MODEL2CONSTANTS
 from utils.transform_utils import get_eval_transforms
-from .ctran import ConvStem
+from .ctran import ConvStem, ctranspath
 
 # def has_CONCH():
 #     HAS_CONCH = False
@@ -43,7 +43,9 @@ def get_encoder(model_name, target_img_size=224):
         model = TimmCNNEncoder()
 
     elif model_name == 'swin' :
-        model = timm.create_model('swin_tiny_patch4_window7_224', embed_layer=ConvStem, pretrained=False)
+        model = ctranspath()
+        
+        model.head = torch.nn.Identity()
         ckpt = torch.load('./../ctranspath.pth', map_location="cpu")
         if 'model' in ckpt:
             state_dict = ckpt['model']
