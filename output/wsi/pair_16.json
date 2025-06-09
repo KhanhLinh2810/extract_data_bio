@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-E7-A677-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "d492383f-5449-4845-bfb3-b2cb4eb49c4e",
+        "entity_id": "b8a8bde3-2ee3-4012-8eb1-3e131d4e356c"
+      }
+    ],
+    "file_name": "TCGA-E7-A677-01Z-00-DX1.D66285D0-F67B-4423-929B-DF34BBC55C80.svs",
+    "md5sum": "c83f441d72b8f01523667737fb9ead42",
+    "file_id": "b48cf9cc-00b8-48ad-84f6-486d314bc1fb",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-E7-A677-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 621260561
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-G2-A2ES-01Z-00-DX3",
+        "entity_type": "slide",
+        "case_id": "72d8eae8-9efb-45b2-acbd-82c6b5732e38",
+        "entity_id": "5c55e79d-c9da-4f47-8d73-fb304fa3c84e"
+      }
+    ],
+    "file_name": "TCGA-G2-A2ES-01Z-00-DX3.4127F544-FC83-44F6-85CD-3F1542785E71.svs",
+    "submitter_id": "TCGA-G2-A2ES-01Z-00-DX3_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-G2-A2ES",
+        "notes": "Patient had synchronous prostate cancer. No radiation or systemic chemotherapy.",
+        "submitter_id": "15273",
+        "classification": "Notification",
+        "entity_id": "72d8eae8-9efb-45b2-acbd-82c6b5732e38",
+        "created_datetime": "2013-02-01T00:00:00",
+        "annotation_id": "81f168ec-1d15-5065-93d8-7996b3d70594",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "72d8eae8-9efb-45b2-acbd-82c6b5732e38",
+        "state": "released",
+        "category": "Synchronous malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-G2-A2ES"
+      }
+    ],
+    "file_size": 624068963,
+    "md5sum": "22506c2b2dcd68ed274f5701610fa77c",
+    "file_id": "21ffe9f3-5056-463c-838c-eede028e4e70",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  }
+]

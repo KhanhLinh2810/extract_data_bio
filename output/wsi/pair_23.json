@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-GV-A3JW-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "3d644eaf-82fc-4bc7-93b7-3e600e8c6511",
+        "entity_id": "f7ee94d2-1800-4027-aef2-0556e5d64e21"
+      }
+    ],
+    "file_name": "TCGA-GV-A3JW-01Z-00-DX1.152AD6E5-D30A-4D94-A793-3DDF3828625C.svs",
+    "md5sum": "248885f42294332472486e33827fa6d6",
+    "file_id": "b9a11d78-cbe1-4b1b-8c04-9946c01070da",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-GV-A3JW-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 752603274
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-BL-A0C8-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "a6003b1c-56a9-430a-a5e2-b70af3f81bdb",
+        "entity_id": "e34f34c9-9fb1-4d3b-a821-2218e6df298a"
+      }
+    ],
+    "file_name": "TCGA-BL-A0C8-01Z-00-DX1.E7FC7156-EF0C-4C79-93D1-1345ADB36A45.svs",
+    "submitter_id": "TCGA-BL-A0C8-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-BL-A0C8",
+        "notes": "This is a non-muscle invasive pT1 bladder cancer submitted before the pT2 requirement",
+        "submitter_id": "15125",
+        "classification": "Notification",
+        "entity_id": "a6003b1c-56a9-430a-a5e2-b70af3f81bdb",
+        "created_datetime": "2013-01-22T00:00:00",
+        "annotation_id": "fd66301a-d155-557c-9c28-3aabcd63cee9",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "a6003b1c-56a9-430a-a5e2-b70af3f81bdb",
+        "state": "released",
+        "category": "Item does not meet study protocol",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-BL-A0C8"
+      }
+    ],
+    "file_size": 759568133,
+    "md5sum": "4774307ba3d65b2d60ee556c0da674cf",
+    "file_id": "257f6baf-b6c9-4d4b-9b5d-cc566bdb7300",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  }
+]

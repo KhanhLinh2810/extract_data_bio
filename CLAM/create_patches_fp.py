@@ -11,7 +11,7 @@ import pdb
 import pandas as pd
 from tqdm import tqdm
 
-def stitching(file_path, wsi_object, downscale = 64):
+def stitching(file_path, wsi_object, downscale = 20):
 	start = time.time()
 	heatmap = StitchCoords(file_path, wsi_object, downscale=downscale, bg_color=(0,0,0), alpha=-1, draw_grid=False)
 	total_time = time.time() - start
@@ -203,7 +203,7 @@ def seg_and_patch(source, save_dir, patch_save_dir, mask_save_dir, stitch_save_d
 		if stitch:
 			file_path = os.path.join(patch_save_dir, slide_id+'.h5')
 			if os.path.isfile(file_path):
-				heatmap, stitch_time_elapsed = stitching(file_path, WSI_object, downscale=64)
+				heatmap, stitch_time_elapsed = stitching(file_path, WSI_object, downscale=20)
 				stitch_path = os.path.join(stitch_save_dir, slide_id+'.jpg')
 				heatmap.save(stitch_path)
 

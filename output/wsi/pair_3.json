@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-HQ-A2OF-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "691adaa9-196a-4b62-9437-640c4ae6e2b2",
+        "entity_id": "94792fb9-5adc-4fcf-a73d-f99c8e649f20"
+      }
+    ],
+    "file_name": "TCGA-HQ-A2OF-01Z-00-DX1.6D50B772-71C3-40C3-94CF-969946799028.svs",
+    "submitter_id": "TCGA-HQ-A2OF-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-HQ-A2OF",
+        "notes": "Sample was shipped as a muscle invasive urothelial carcinoma, but according to the path report and expert pathology review it is a papillary carcinoma. Therefore this case, does not meet TCGA BLCA requirements.",
+        "submitter_id": "29684",
+        "classification": "Notification",
+        "entity_id": "691adaa9-196a-4b62-9437-640c4ae6e2b2",
+        "created_datetime": "2015-12-07T00:00:00",
+        "annotation_id": "5fee924c-77e0-5cb0-8a06-a85f4e479f6f",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "691adaa9-196a-4b62-9437-640c4ae6e2b2",
+        "state": "released",
+        "category": "Item does not meet study protocol",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-HQ-A2OF"
+      }
+    ],
+    "file_size": 155219462,
+    "md5sum": "8a4160bbbc4ea9de2e76b5c69bf4e252",
+    "file_id": "5e4ef3f3-5617-45bc-95ee-13fd5c6d0767",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-BL-A3JM-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "0f4fb205-b13c-4a85-97b3-779429e6ccdd",
+        "entity_id": "09e1dcda-f8cf-4fc7-b0e0-2dbd20736068"
+      }
+    ],
+    "file_name": "TCGA-BL-A3JM-01Z-00-DX1.33E53972-CEA4-4D84-A5D2-7DAD7B0C27F8.svs",
+    "md5sum": "e96ed73c3491e271114c51d6c201cb36",
+    "file_id": "34363f68-b82c-4e5e-8e91-3b05dedfc60b",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-BL-A3JM-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 161394413
+  }
+]

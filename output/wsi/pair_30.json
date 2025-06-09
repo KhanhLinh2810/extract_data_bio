@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-GV-A40G-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "10422fe9-8d70-40a9-9875-3fe9fab68823",
+        "entity_id": "242addd0-9aff-4ef8-8a9a-c23ac0df04f3"
+      }
+    ],
+    "file_name": "TCGA-GV-A40G-01Z-00-DX1.AD1A709F-A10C-4E69-B4ED-6361777361FD.svs",
+    "submitter_id": "TCGA-GV-A40G-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-GV-A40G",
+        "notes": "Patient had a prior non-muscle invasive bladder cancer. No radiation or systemic chemotherapy.",
+        "submitter_id": "15284",
+        "classification": "Notification",
+        "entity_id": "10422fe9-8d70-40a9-9875-3fe9fab68823",
+        "created_datetime": "2013-02-01T00:00:00",
+        "annotation_id": "77d30a15-8a39-5935-8803-517b842389b7",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "10422fe9-8d70-40a9-9875-3fe9fab68823",
+        "state": "released",
+        "category": "Prior malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-GV-A40G"
+      }
+    ],
+    "file_size": 857385574,
+    "md5sum": "f5ceb6241e9ad5742f118b454e2bf340",
+    "file_id": "a6b073a9-9226-4907-9edb-90070c68ae60",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-E7-A5KF-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "5d06cc19-8b10-4ed1-b6d4-8e044f1f8a8c",
+        "entity_id": "fe09cf8b-34c9-4ffa-b422-245a469a22ca"
+      }
+    ],
+    "file_name": "TCGA-E7-A5KF-01Z-00-DX1.61663245-91CA-423F-9639-30B9F7E216C4.svs",
+    "md5sum": "0b3aeb41aa49b136e9c8e564e88f2289",
+    "file_id": "a012d992-3706-46d7-90a4-47efa5e6e399",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-E7-A5KF-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 865192947
+  }
+]

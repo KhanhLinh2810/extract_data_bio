@@ -10,7 +10,7 @@ import argparse
 import pdb
 import pandas as pd
 
-def stitching(file_path, downscale = 64):
+def stitching(file_path, downscale = 20):
 	start = time.time()
 	heatmap = StitchPatches(file_path, downscale=downscale, bg_color=(0,0,0), alpha=-1, draw_grid=False)
 	total_time = time.time() - start
@@ -175,7 +175,7 @@ def seg_and_patch(source, save_dir, patch_save_dir, mask_save_dir, stitch_save_d
 		stitch_time_elapsed = -1
 		if stitch:
 			file_path = os.path.join(patch_save_dir, slide_id+'.h5')
-			heatmap, stitch_time_elapsed = stitching(file_path, downscale=64)
+			heatmap, stitch_time_elapsed = stitching(file_path, downscale=20)
 			stitch_path = os.path.join(stitch_save_dir, slide_id+'.png')
 			heatmap.save(stitch_path)
 

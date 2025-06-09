@@ -63,6 +63,6 @@ def process_json_files(json_dir_path, default_label = 'gf'):
 # Example usage
 if __name__ == "__main__":
     process_json_files(
-        'output/metadata.cart.2025-06-04-wsi',
+        'output/wsi',
         # 'output/metadata.cart.2025-06-04-gen',
     )

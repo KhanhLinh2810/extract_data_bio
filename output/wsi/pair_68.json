@@ -1,0 +1,44 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-GV-A3QH-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "33bc6a7c-9844-41e3-96b3-1e34bb3fedd5",
+        "entity_id": "61314de8-c097-4ad7-bd53-976669e66a13"
+      }
+    ],
+    "file_name": "TCGA-GV-A3QH-01Z-00-DX1.A87C25E1-8199-4557-944B-9ABD1A70ADE9.svs",
+    "md5sum": "96676aaa8452da88922457ba7eba1bb1",
+    "file_id": "8ee271d5-7c0d-4650-965c-e525a6a805f9",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-GV-A3QH-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1261690106
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-CF-A47T-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "0db0f02f-94f5-492f-8840-5254792f6879",
+        "entity_id": "b0e00683-f8aa-415c-9604-d10ef0b1ac1c"
+      }
+    ],
+    "file_name": "TCGA-CF-A47T-01Z-00-DX1.2AFA4BB3-B97C-4C0D-86F4-53A5F3317129.svs",
+    "md5sum": "c7ec20639220540c1a78db8426eb09ad",
+    "file_id": "8d7331e4-56c7-49fa-b415-32cd4048d3db",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-CF-A47T-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1263967476
+  }
+]

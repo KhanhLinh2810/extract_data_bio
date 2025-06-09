@@ -45,8 +45,8 @@ def process_json_files(json_dir_path, txt_path):
 # Example usage
 if __name__ == "__main__":
     process_json_files(
-        'output/metadata.cart.2025-06-04-wsi',
-        'gdc_manifest.2025-06-04.201000-wsi.txt',
+        'output/wsi',
+        'download_data/gdc_manifest.2025-06-10.023652.txt',
         # 'output/metadata.cart.2025-06-04-gen',
         # 'gdc_manifest.2025-06-04.202626-gen.txt',
     )

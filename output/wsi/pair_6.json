@@ -1,0 +1,80 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-GC-A3BM-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "7840aea9-40c4-473e-be33-8fa0b9f332c9",
+        "entity_id": "eb975051-1932-4a35-ba05-708aee6d26e5"
+      }
+    ],
+    "file_name": "TCGA-GC-A3BM-01Z-00-DX1.8880FA8C-8607-4C55-A619-2C8D7F2866EF.svs",
+    "submitter_id": "TCGA-GC-A3BM-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-GC-A3BM",
+        "notes": "Patient had synchronous prostate cancer. No radiation or systemic chemotherapy.",
+        "submitter_id": "15274",
+        "classification": "Notification",
+        "entity_id": "7840aea9-40c4-473e-be33-8fa0b9f332c9",
+        "created_datetime": "2013-02-01T00:00:00",
+        "annotation_id": "7c07ec8c-66ed-5602-9d62-0164f2a1a9a6",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "7840aea9-40c4-473e-be33-8fa0b9f332c9",
+        "state": "released",
+        "category": "Synchronous malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-GC-A3BM"
+      }
+    ],
+    "file_size": 361552578,
+    "md5sum": "c812b3a253713fd59cc763e3200aacca",
+    "file_id": "331565ba-52f8-41a6-a94e-b0db08e80ef2",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-GC-A3RB-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "a0bcf1b1-4dd4-4d7f-b63e-b49296671451",
+        "entity_id": "c02b3df9-ecc5-4721-8ac6-7147cab56a39"
+      }
+    ],
+    "file_name": "TCGA-GC-A3RB-01Z-00-DX1.C0011A55-EA8A-436B-BBCA-342B96803B22.svs",
+    "submitter_id": "TCGA-GC-A3RB-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-GC-A3RB",
+        "notes": "Patient had synchronous prostate cancer. No radiation or systemic chemotherapy.",
+        "submitter_id": "15275",
+        "classification": "Notification",
+        "entity_id": "a0bcf1b1-4dd4-4d7f-b63e-b49296671451",
+        "created_datetime": "2013-02-01T00:00:00",
+        "annotation_id": "ec83c6b5-63ec-5e2e-a5d7-19292fb8099f",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "a0bcf1b1-4dd4-4d7f-b63e-b49296671451",
+        "state": "released",
+        "category": "Synchronous malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-GC-A3RB"
+      }
+    ],
+    "file_size": 365450092,
+    "md5sum": "29ab809e0c0894624de56b34e1ae6687",
+    "file_id": "4387e934-386f-4d15-88f1-473a0caa9255",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  }
+]

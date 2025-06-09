@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-BL-A0C8-01Z-00-DX2",
+        "entity_type": "slide",
+        "case_id": "a6003b1c-56a9-430a-a5e2-b70af3f81bdb",
+        "entity_id": "509d8ea5-e15a-4e4f-af49-be7a1ac711ba"
+      }
+    ],
+    "file_name": "TCGA-BL-A0C8-01Z-00-DX2.1D788C7B-801F-4957-B1DE-43DCAA82A16A.svs",
+    "submitter_id": "TCGA-BL-A0C8-01Z-00-DX2_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-BL-A0C8",
+        "notes": "This is a non-muscle invasive pT1 bladder cancer submitted before the pT2 requirement",
+        "submitter_id": "15125",
+        "classification": "Notification",
+        "entity_id": "a6003b1c-56a9-430a-a5e2-b70af3f81bdb",
+        "created_datetime": "2013-01-22T00:00:00",
+        "annotation_id": "fd66301a-d155-557c-9c28-3aabcd63cee9",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "a6003b1c-56a9-430a-a5e2-b70af3f81bdb",
+        "state": "released",
+        "category": "Item does not meet study protocol",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-BL-A0C8"
+      }
+    ],
+    "file_size": 779227301,
+    "md5sum": "9bb7985e7fb55592d3094e41731629ae",
+    "file_id": "37c4c69c-5734-48f2-946d-d379c1946bef",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-ZF-AA4T-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "1859a4c5-78bc-4b1a-a26e-3d2b4cb221c2",
+        "entity_id": "dece9532-152b-476a-83ad-bfdcb9709a72"
+      }
+    ],
+    "file_name": "TCGA-ZF-AA4T-01Z-00-DX1.3AC48F6E-01E2-4C20-BEFE-3B4A150DFF67.svs",
+    "md5sum": "3da4bdc7f4ddd377d5ff6f0a2f594666",
+    "file_id": "61fcb98a-3be1-409e-ac20-1ae578b982e3",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-ZF-AA4T-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 791642557
+  }
+]

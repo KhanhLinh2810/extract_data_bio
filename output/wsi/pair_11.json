@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-CF-A9FF-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "736e8cdf-e2d7-4141-86a9-45c34178a1c8",
+        "entity_id": "3a4e3adc-7cb7-4287-afbd-aa1f37e51fde"
+      }
+    ],
+    "file_name": "TCGA-CF-A9FF-01Z-00-DX1.69267287-0015-4BC2-A965-CEE9D0CFC5AA.svs",
+    "md5sum": "34c11c64054d318d0795250c2aadb806",
+    "file_id": "70f25fb4-b80d-4d98-8c2c-7c38f16c4ac8",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-CF-A9FF-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 511730697
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-GC-A3WC-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "db52c68a-ed44-4ec4-9381-d75f9bcbc29a",
+        "entity_id": "ea3ed9a5-9640-4d2c-98da-ad531a0fd387"
+      }
+    ],
+    "file_name": "TCGA-GC-A3WC-01Z-00-DX1.D8F5CD43-7338-414C-ADE8-AC0BBC6A871C.svs",
+    "submitter_id": "TCGA-GC-A3WC-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-GC-A3WC",
+        "notes": "Patient had a prior breast cancer. No radiation or systemic chemotherapy.",
+        "submitter_id": "15276",
+        "classification": "Notification",
+        "entity_id": "db52c68a-ed44-4ec4-9381-d75f9bcbc29a",
+        "created_datetime": "2013-02-01T00:00:00",
+        "annotation_id": "0c6e76d0-c23a-588d-9e8b-bdb124071249",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "db52c68a-ed44-4ec4-9381-d75f9bcbc29a",
+        "state": "released",
+        "category": "Prior malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-GC-A3WC"
+      }
+    ],
+    "file_size": 513832460,
+    "md5sum": "9e673549ecf02fc3ec36c50d250e8a7a",
+    "file_id": "1894f84f-056c-438d-b220-afe3298b779e",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  }
+]

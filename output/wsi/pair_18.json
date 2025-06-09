@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-G2-A2EO-01Z-00-DX2",
+        "entity_type": "slide",
+        "case_id": "98b9ad62-76ed-43e3-91bc-b8f065d79673",
+        "entity_id": "3c71e097-e6d0-4b11-899a-ca0dad2e6e80"
+      }
+    ],
+    "file_name": "TCGA-G2-A2EO-01Z-00-DX2.94CC403C-1986-4906-AF11-92E349C8A114.svs",
+    "md5sum": "c4c1297033cfd2a3cbee558c728aa067",
+    "file_id": "5455ac26-a2ba-477a-b245-a20b591d4c4b",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-G2-A2EO-01Z-00-DX2_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 656238067
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-C4-A0EZ-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "05935f1d-77c2-46ca-b87a-7a84bce38afd",
+        "entity_id": "8c97fdf7-11e8-4b7a-b489-2730de5b780a"
+      }
+    ],
+    "file_name": "TCGA-C4-A0EZ-01Z-00-DX1.993A12F0-9687-4E56-B887-13C9453A7E63.svs",
+    "submitter_id": "TCGA-C4-A0EZ-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-C4-A0EZ",
+        "notes": "Patient had a melanoma of the lower limb. No radiation or systemic chemotherapy.",
+        "submitter_id": "15242",
+        "classification": "Notification",
+        "entity_id": "05935f1d-77c2-46ca-b87a-7a84bce38afd",
+        "created_datetime": "2013-01-29T00:00:00",
+        "annotation_id": "30920ce4-35a0-5f87-9133-3a130e0ca61c",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "05935f1d-77c2-46ca-b87a-7a84bce38afd",
+        "state": "released",
+        "category": "Prior malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-C4-A0EZ"
+      }
+    ],
+    "file_size": 666594680,
+    "md5sum": "10c967da959275a7c250e184f115c416",
+    "file_id": "f89ccebb-fa19-49cd-adf3-0117726181f6",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  }
+]

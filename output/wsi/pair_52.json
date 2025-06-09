@@ -1,0 +1,62 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-CU-A0YO-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "4a9ef220-922c-49cf-bbed-d173b214ed31",
+        "entity_id": "23eea010-f1f8-4cb4-a888-1d9100ffdfae"
+      }
+    ],
+    "file_name": "TCGA-CU-A0YO-01Z-00-DX1.847097EC-2E17-44BA-9162-6AA298B7CAFD.svs",
+    "submitter_id": "TCGA-CU-A0YO-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-CU-A0YO",
+        "notes": "Patient had synchronous prostate cancer. No radiation or systemic chemotherapy.",
+        "submitter_id": "15245",
+        "classification": "Notification",
+        "entity_id": "4a9ef220-922c-49cf-bbed-d173b214ed31",
+        "created_datetime": "2013-01-29T00:00:00",
+        "annotation_id": "a3b5a277-8500-5dee-ad97-bb3c98fe34ee",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "4a9ef220-922c-49cf-bbed-d173b214ed31",
+        "state": "released",
+        "category": "Synchronous malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-CU-A0YO"
+      }
+    ],
+    "file_size": 1084236847,
+    "md5sum": "fe1565b749741602483aace14dced13b",
+    "file_id": "b2ab0307-7728-46e9-bae3-6e89e03d2dbf",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-ZF-A9R5-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "aaa55de1-8f53-4b56-ba0a-67cff909cf81",
+        "entity_id": "b1946097-f73b-4520-87d8-617e363fd2ff"
+      }
+    ],
+    "file_name": "TCGA-ZF-A9R5-01Z-00-DX1.50B18159-9376-411A-B519-12BB50D06DFC.svs",
+    "md5sum": "f674b8c3fbb2ce078078b8f7cda6a885",
+    "file_id": "bf6f4712-9fd3-452c-bc78-78bdddb267a3",
+    "data_type": "Slide Image",
+    "submitter_id": "TCGA-ZF-A9R5-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide",
+    "file_size": 1090956815
+  }
+]

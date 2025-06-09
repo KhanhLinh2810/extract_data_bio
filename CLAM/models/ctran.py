@@ -5,7 +5,7 @@ import torch.nn as nn
 
 class ConvStem(nn.Module):
 
-    def __init__(self, img_size=224, patch_size=4, in_chans=3, embed_dim=768, norm_layer=None, flatten=True):
+    def __init__(self, img_size=224, patch_size=4, in_chans=3, embed_dim=256, norm_layer=None, flatten=True):
         super().__init__()
 
         assert patch_size == 4

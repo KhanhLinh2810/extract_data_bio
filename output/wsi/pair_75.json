@@ -1,0 +1,96 @@
+[
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-DK-A3IS-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "9f75cc89-cc3f-4ae9-973d-da37c6417bfc",
+        "entity_id": "ed61c768-15e3-49e3-9a3b-515f6b31cb5d"
+      }
+    ],
+    "file_name": "TCGA-DK-A3IS-01Z-00-DX1.31CABE32-36D7-4920-BF5A-9C9D8B54320F.svs",
+    "submitter_id": "TCGA-DK-A3IS-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-DK-A3IS",
+        "notes": "Patient had synchronous prostate cancer and prior basal cell carcinoma. No radiation or systemic chemotherapy.",
+        "submitter_id": "15254",
+        "classification": "Notification",
+        "entity_id": "9f75cc89-cc3f-4ae9-973d-da37c6417bfc",
+        "created_datetime": "2013-01-31T00:00:00",
+        "annotation_id": "0059ca72-5750-5754-bdfa-a470f1534e23",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "9f75cc89-cc3f-4ae9-973d-da37c6417bfc",
+        "state": "released",
+        "category": "Prior malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-DK-A3IS"
+      },
+      {
+        "entity_submitter_id": "TCGA-DK-A3IS",
+        "notes": "Patient had synchronous prostate cancer and prior basal cell carcinoma. No radiation or systemic chemotherapy",
+        "submitter_id": "15256",
+        "classification": "Notification",
+        "entity_id": "9f75cc89-cc3f-4ae9-973d-da37c6417bfc",
+        "created_datetime": "2013-01-31T00:00:00",
+        "annotation_id": "966a3dce-a056-5eb3-aa13-fb56063d986f",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "9f75cc89-cc3f-4ae9-973d-da37c6417bfc",
+        "state": "released",
+        "category": "Synchronous malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-DK-A3IS"
+      }
+    ],
+    "file_size": 1313036981,
+    "md5sum": "5c55151ea24c0d6f478b4fa02d06a122",
+    "file_id": "0f58ae76-9875-4861-8d25-19de0b5c827e",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  },
+  {
+    "data_format": "SVS",
+    "access": "open",
+    "associated_entities": [
+      {
+        "entity_submitter_id": "TCGA-DK-A3IN-01Z-00-DX1",
+        "entity_type": "slide",
+        "case_id": "fc0032db-b6d8-4da3-bd1b-beec4196abf0",
+        "entity_id": "9d869ec6-afcd-4dfd-8ec9-a6b418e917a4"
+      }
+    ],
+    "file_name": "TCGA-DK-A3IN-01Z-00-DX1.2AB0F8FC-CC41-4277-A8AF-8AE709D98DA0.svs",
+    "submitter_id": "TCGA-DK-A3IN-01Z-00-DX1_slide_image",
+    "data_category": "Biospecimen",
+    "annotations": [
+      {
+        "entity_submitter_id": "TCGA-DK-A3IN",
+        "notes": "Patient had synchronous prostate cancer. No radiation or systemic chemotherapy.",
+        "submitter_id": "15257",
+        "classification": "Notification",
+        "entity_id": "fc0032db-b6d8-4da3-bd1b-beec4196abf0",
+        "created_datetime": "2013-01-31T00:00:00",
+        "annotation_id": "83777fe2-a8bf-5e38-be42-a8068e3a8785",
+        "entity_type": "case",
+        "updated_datetime": "2018-08-23T16:32:20.747393-05:00",
+        "case_id": "fc0032db-b6d8-4da3-bd1b-beec4196abf0",
+        "state": "released",
+        "category": "Synchronous malignancy",
+        "status": "Approved",
+        "case_submitter_id": "TCGA-DK-A3IN"
+      }
+    ],
+    "file_size": 1313413695,
+    "md5sum": "9e11709b6178555f9cf09ccdd158f430",
+    "file_id": "b2023b23-df21-4165-92c3-211a9e43fb5f",
+    "data_type": "Slide Image",
+    "state": "released",
+    "experimental_strategy": "Diagnostic Slide"
+  }
+]
