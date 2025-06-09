@@ -60,6 +60,7 @@ parser.add_argument('--data_dir', type=str)
 parser.add_argument('--csv_path', type=str)
 parser.add_argument('--feat_dir', type=str)
 parser.add_argument('--model_name', type=str, default='resnet50_trunc', choices=['resnet50_trunc', 'uni_v1', 'conch_v1', 'swin'])
+parser.add_argument('--model_path', type=str, default='./../ctranspath.pth')
 parser.add_argument('--batch_size', type=int, default=256)
 parser.add_argument('--slide_ext', type=str, default= '.svs')
 parser.add_argument('--no_auto_skip', default=False, action='store_true')
@@ -76,7 +77,7 @@ if __name__ == '__main__':
 	os.makedirs(args.feat_dir, exist_ok=True)
 	dest_files = os.listdir(args.feat_dir)
 
-	model, img_transforms = get_encoder(args.model_name, target_img_size=args.target_patch_size)	
+	model, img_transforms = get_encoder(args.model_name,args.model_path, target_img_size=args.target_patch_size)	
 	model = model.to(device)
 	_ = model.eval()
 

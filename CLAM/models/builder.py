@@ -37,7 +37,7 @@ def has_UNI():
         print(e)
     return HAS_UNI, UNI_CKPT_PATH
         
-def get_encoder(model_name, target_img_size=224):
+def get_encoder(model_name, model_path, target_img_size=224):
     print('loading model checkpoint')
     if model_name == 'resnet50_trunc':
         model = TimmCNNEncoder()
@@ -46,7 +46,7 @@ def get_encoder(model_name, target_img_size=224):
         model = ctranspath()
         
         model.head = torch.nn.Identity()
-        ckpt = torch.load('./../ctranspath.pth', map_location="cpu")
+        ckpt = torch.load(model_path, map_location="cpu")
         if 'model' in ckpt:
             state_dict = ckpt['model']
         else:
