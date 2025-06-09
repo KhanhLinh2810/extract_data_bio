@@ -30,4 +30,4 @@ def move_all_svs_files(src_dir, dst_dir):
     print(f"Total .svs files moved: {count}")
 
 if __name__ == "__main__":
-    move_all_svs_files("/content", "/content/extract_bio_data/svs")
+    move_all_svs_files("/content", "/content/extract_data_bio/svs")
